@@ -1694,6 +1694,18 @@
     ]
   },
   {
+    "name": "CRBAchan",
+    "url": "https://ib.crba.dedyn.io/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "kissu-vi"
+    ]
+  },
+  {
     "name": "crystal.cafe",
     "url": "https://crystal.cafe/",
     "language": [
